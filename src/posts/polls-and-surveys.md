@@ -34,3 +34,7 @@ description: How much do regular people and experts worry about AI risks and gov
 
 - [**Metaculus Weak AGI**](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/) before 2026: 25% chance, AGI by 2027: 50% chance (updated on 2024-11-05).
 - [**Metaculus full AGI**](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) before 2028: 25% chance, full AGI by 2032: 50% chance (updated on 2024-11-05).
+
+## Alignment 
+- [**Alignment researchers and Effective Alruists, LessWrong**](https://www.lesswrong.com/posts/XTdByFM6cmgB3taEN/key-takeaways-from-our-ea-and-alignment-research-surveys#Free_responses_from_alignment_survey): in May 2024, a survey was answered by 250 effective alruists and 125 Alignment researchers. In answering the quesion: "Current alignment research is on track to solve alignment before we get AGI" 21% strongly disagreed, 41% somewhat disagreed, 20% were neutral, 8% somewhat agreed, 1% strongly agreed. 
+
